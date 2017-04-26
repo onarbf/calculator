@@ -1,0 +1,20 @@
+.btn {
+  width: 15%;
+  height: 50px;
+  margin: 10px 0;
+}
+.form-control{
+  width:300px !important;
+}
+.col-sm-6{
+  background-color: #f4f4f4;
+}
+.container{
+  margin: 0 auto;
+  margin-top: 12rem;
+}
+/*.col{
+  background-color: #f4f4f4;
+  border: 1px solid grey;
+  padding: 15px 0;
+}*/
